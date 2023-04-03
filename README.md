@@ -29,9 +29,8 @@ Student of IT Engg. @sppu, besides my studies I'm currently Learning & developin
 <a href="https://www.mysql.com/" target="_blank"> <img src="/tools used/mysql.svg" alt="mysql" width="30" height="30"/> </a> 
 <a href="https://www.firebase.com/" target="_blank"> <img src="/tools used/firebase.png" alt="mysql" width="30" height="30"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="/tools used/git.svg" alt="git" width="30" height="30"/> </a> 
-<a href="https://www.debian.org/" target="_blank"> <img src="/tools used/debian.svg" alt="debian" width="30" height="30"/> </a>
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> <img src="/tools used/premier.svg" alt="premierpro" width="30" height="30"/> </a>
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> <img src="/tools used/photoshop.svg" alt="photoshop" width="30" height="30"/> </a>
+
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=pavanpatil45&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavanpatil45&hide=TeX&layout=compact)
