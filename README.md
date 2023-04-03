@@ -8,7 +8,7 @@ Student of IT Engg. @sppu, besides my studies I'm currently Learning & developin
 
 - 👨‍💻 Check out my [**Github Page**](https://pavanpatil45.github.io)
 - 📃 Download [**Resume**](https://drive.google.com/file/d/1qE89CTgyPXFXf4-mvNwQWlR4knKlKyxt/view?usp=sharing)
-- 📫 How to reach me **pavanadhao685@gmail.com**
+- 📫 How to reach me **pavanadha685@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
