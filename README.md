@@ -1,5 +1,5 @@
 <!--[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQF-YdClTtUhMg/profile-displaybackgroundimage-shrink_350_1400/0?e=1609372800&v=beta&t=6E5tCS27PQAir7y2vnMPjAmQe85xrTOIVUQT1A72gC0)](https://pavanpatil45.github.io/P4V4N-Page)-->
-## Hey hi ! I'm PAVAN <!--<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">-->
+## Hey hi ! I'm Gopal<!--<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">-->
 <!--<h1 align="center">Hi 👋, I'm P4V4N</h1>-->
 Student of IT Engg. @sppu, besides my studies I'm currently Learning & developing native Android apps & Web apps, learning databases🌱 Sometimes I become a nerd who tryna learn pretty much about everything :D Presumably because I'm always enthusiastic/hyped about new technologies, Open-source s/w and tools.
 
@@ -32,7 +32,7 @@ Student of IT Engg. @sppu, besides my studies I'm currently Learning & developin
 <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> <img src="/tools used/premier.svg" alt="premierpro" width="30" height="30"/> </a>
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=pavanpatil45&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavanpatil45&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=GopalParaskar&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GopalParaskar5&hide=TeX&layout=compact)
 
 <!--&theme=vue-dark-->
