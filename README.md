@@ -1,7 +1,7 @@
 <!--[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQF-YdClTtUhMg/profile-displaybackgroundimage-shrink_350_1400/0?e=1609372800&v=beta&t=6E5tCS27PQAir7y2vnMPjAmQe85xrTOIVUQT1A72gC0)](https://pavanpatil45.github.io/P4V4N-Page)-->
 ## Hey hi ! I'm Gopal<!--<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">-->
 <!--<h1 align="center">Hi 👋, I'm Gopal Paraskar</h1>-->
-Student of IT Engg. @sppu
+Student of IT Engg. @sppu At present, I am focused on the development of Web applications and backend devopment, while also gaining knowledge of databases. My love for learning has led me to explore many different areas of study, including emerging technologies, open-source software, and various tools. This has kept me highly motivated and excited to continue exploring new developments in the industry.
 
 <img align="right" alt="Coding" width="350" src="./g8.gif">
 <!--https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">-->
